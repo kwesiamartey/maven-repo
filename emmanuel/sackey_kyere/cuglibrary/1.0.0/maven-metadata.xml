@@ -1,16 +1,12 @@
-<metadata>
-    <groupId>com.github.kwesiamartey</groupId>
-    <artifactId>Radio-Maven</artifactId>
-
+<metadata> 
+    <groupId>com.glosed</groupId> 
+    <artifactId>cuglibrary</artifactId> 
     <versioning>
-        <latest>1.0.0</latest>
-        <release>1.0.0</release>
-
-        <versions>
-            <version>1.0.0</version>
-        </versions>
-
-        <!-- Today's date in YYYYMMDDHHMMSS format (GitHub does not require seconds) -->
-        <lastUpdated>20251106</lastUpdated>
-    </versioning>
+        <latest>1.0.0</latest> 
+            <release>1.0.0</release> 
+            <versions> 
+                <version>1.0.0</version> 
+            </versions> 
+       <lastUpdated>20251105</lastUpdated> 
+    </versioning> 
 </metadata>
