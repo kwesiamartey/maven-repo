@@ -1,26 +1,14 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
-                             https://maven.apache.org/xsd/maven-4.0.0.xsd">
-
-    <modelVersion>4.0.0</modelVersion>
-
-    <!-- MUST MATCH groupId in Gradle -->
-    <groupId>com.github.kwesiamartey</groupId>
-
-    <!-- MUST MATCH artifactId in Gradle -->
-    <artifactId>Radio-Maven</artifactId>
-
-    <!-- MUST MATCH version in Gradle -->
-    <version>1.0.0</version>
-
-    <!-- Android libraries use AAR packaging -->
-    <packaging>aar</packaging>
-
-    <name>Radio Maven Library</name>
-    <description>Android Radio Library AAR</description>
-
-    <url>https://github.com/kwesiamartey/Radio-Maven</url>
-</project>
+<project 
+      xmlns="http://maven.apache.org/POM/4.0.0" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"> 
+<modelVersion>4.0.0</modelVersion> 
+<groupId>emmanuel.sackey_kyere</groupId>
+<artifactId>cuglibrary</artifactId> 
+<version>1.0.0</version> 
+<packaging>aar</packaging> 
+<name>Glosed CUG Library</name> 
+<description>API integration library for Glosed user group</description> 
+<url>https://kwesiamartey.github.io/maven-repo/</url> </project>
 
 
